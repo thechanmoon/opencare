@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  business: one
+  day: MyString
+  open_time: 2020-05-13 18:28:48
+  close_time: 2020-05-13 18:28:48
+
+two:
+  business: two
+  day: MyString
+  open_time: 2020-05-13 18:28:48
+  close_time: 2020-05-13 18:28:48

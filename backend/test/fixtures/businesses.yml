@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  img: MyString
+  name: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip_code: 1
+  is_approved: false
+  type: 
+
+two:
+  user: two
+  img: MyString
+  name: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip_code: 1
+  is_approved: false
+  type: 
